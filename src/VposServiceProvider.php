@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Providers;
+namespace Mumpo\Vpos;
 
 use Illuminate\Support\ServiceProvider;
 

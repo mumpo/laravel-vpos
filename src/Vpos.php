@@ -1,4 +1,4 @@
-<?php namespace App\Services;
+<?php namespace Mumpo\Vpos;
 
 use Illuminate\Support\Facades\Config;
 
