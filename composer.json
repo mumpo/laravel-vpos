@@ -16,7 +16,7 @@
     "minimum-stability": "stable",
 	"autoload": {
         "psr-0": {
-            "Mumpo\\Vpos": "src/"
+            "Mumpo\\Vpos\\": "src/"
         }
     }
 }
